@@ -6,4 +6,3 @@ def number_keys(a_dictionary):
     for j in list_keys:
         num = num + 1
     return num
-
