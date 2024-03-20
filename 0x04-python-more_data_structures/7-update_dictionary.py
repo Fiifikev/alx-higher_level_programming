@@ -2,7 +2,6 @@
 
 def update_dictionary(a_dictionary, key, value):
     """Function to replace or add key/value pairs in a dictionary."""
-    
     if key in a_dictionary:
         a_dictionary[key] = value
     else:
